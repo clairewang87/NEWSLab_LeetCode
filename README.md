@@ -4,7 +4,7 @@ This repository is for NTU NEWSLab students to practice LeetCode.
 ## How to practice
 1. Fork [this repository](https://github.com/zhengwei6/NEWSLab_LeetCode) on GitHub ![](images/fork.jpg)
 2. Write down following info in your `README.md`
-    - GitHub account name: clairewang
+    - GitHub account name: clairewang87
     - Student ID: r09922090
     - Your name: 王文依 WEN-YI WANG
 3. Write your solutions in forked repository
